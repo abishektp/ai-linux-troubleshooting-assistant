@@ -345,3 +345,14 @@ It demonstrates the integration of:
 ## 📄 Disclaimer
 
 This project is intended for learning, demonstration, and troubleshooting assistance. Commands and AI-generated recommendations should be reviewed and validated before being used on production systems.
+
+<img width="821" height="395" alt="image" src="https://github.com/user-attachments/assets/dfaf0f84-a084-437c-a9d1-32ab24e28178" />
+
+<img width="833" height="414" alt="image" src="https://github.com/user-attachments/assets/3640528d-19b5-4a4f-9414-9e60e7e05f84" />
+
+<img width="842" height="391" alt="image" src="https://github.com/user-attachments/assets/f9d18ee3-139a-4fdf-b727-99037ae93a89" />
+
+<img width="812" height="370" alt="image" src="https://github.com/user-attachments/assets/f5569d30-2934-42dc-9d73-fc7979a5bde8" />
+
+
+
